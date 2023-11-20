@@ -1,0 +1,6 @@
+# top-most EditorConfig file
+root = true
+
+[*]
+max_line_length = 89
+end_of_line = lf
